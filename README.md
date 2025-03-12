@@ -1,9 +1,10 @@
 # Catatan Pemrograman Jaringan
 # Daftar Isi
--   [✨ Pertemuan 3](https://github.com/alvinzanuaputra/W1_Otomata-E/blob/main/README.md#star-binary-checker)
+-   [✨ Pertemuan 3 - Mengoperasikan Mesin](https://github.com/alvinzanuaputra/W1_Otomata-E/blob/main/README.md#star-binary-checker)
+-   [✨ Pertemuan 3 - Komunikasi Mesin menggunakan Netcat](https://github.com/alvinzanuaputra/W1_Otomata-E/blob/main/README.md#star-binary-checker)
 
-# :herb: Pertemuan 3 - Mengoperasikan Program dan Melakukan Komunikasi 2 Mesin
-**A. Langkah - Langkah Pengoperasian Program** 
+# :herb: Pertemuan 3 - Mengoperasikan Mesin dan Melakukan Komunikasi 2 Mesin
+### **A. Langkah - Langkah Pengoperasian Mesin** 
 1. Buka Visual Studio Code
 2. Pada bagian pojok kiri bawah, klik tombol berwarna biru. <br>
    ![image](https://github.com/user-attachments/assets/d36422cb-4505-434f-be6f-128c63ce906a)
@@ -27,7 +28,7 @@
    docker-compose down
    ```
 
-**B. Langkah - Langkah Komunikasi 2 Mesin menggunakan Netcat**
+### **B. Langkah - Langkah Komunikasi 2 Mesin menggunakan Netcat**
 1. Pastikan program (docker compose) sudah menyala seperti langkah-langkah di atas.
 2. Buka browser Chrome
 3. Karena komunikasi memerlukan 2 mesin, maka perlu mengakses 2 mesin berbeda pula. <br>
