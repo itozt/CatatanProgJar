@@ -1,7 +1,7 @@
 # Catatan Pemrograman Jaringan
 # Daftar Isi
--   [✨ Pertemuan 3 - Mengoperasikan Mesin](https://github.com/alvinzanuaputra/W1_Otomata-E/blob/main/README.md#star-binary-checker)
--   [✨ Pertemuan 3 - Komunikasi Mesin menggunakan Netcat](https://github.com/alvinzanuaputra/W1_Otomata-E/blob/main/README.md#star-binary-checker)
+-   [✨ Pertemuan 3 - Mengoperasikan Mesin](https://github.com/itozt/CatatanProgJar/blob/main/README.md#a-langkah---langkah-pengoperasian-mesin)
+-   [✨ Pertemuan 3 - Komunikasi Mesin menggunakan Netcat](https://github.com/itozt/CatatanProgJar/blob/main/README.md#b-langkah---langkah-komunikasi-2-mesin-menggunakan-netcat)
 
 # :herb: Pertemuan 3 - Mengoperasikan Mesin dan Melakukan Komunikasi 2 Mesin
 ### **A. Langkah - Langkah Pengoperasian Mesin** 
