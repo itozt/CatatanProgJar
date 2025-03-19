@@ -49,7 +49,7 @@
    ```
 7. Nyalakan server pada mesin yang berperan sebagai penerima pesan, contoh di mesin1
    ```
-   cd work/progjar/progjar1
+   cd progjar/progjar1
    python3 server.py
    ```
 8. Ajukan komunikasi netcat di mesin2 ke mesin1
